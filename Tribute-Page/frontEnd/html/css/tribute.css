@@ -1,0 +1,32 @@
+.container-fluid {
+  display: flex;
+  flex-direction: column;
+  background: rgb(225,226,37);
+  background: linear-gradient(0deg, rgba(225,226,37,1) 0%, rgba(253,62,45,1) 100%);
+}
+#title {
+  color: black; 
+  font-weight: bold; 
+}
+figure {
+  width: 70vw; 
+  height: auto;
+  margin: 30px auto;
+}
+#img {
+  width: 60vw;
+  height: auto;
+}
+#tribute-info {
+  width: 65vw; 
+  margin: 0px auto; 
+  background-color: rgba(200,200,200,.4); 
+  margin-bottom: 20px; 
+  padding: 30px; 
+}
+hr {
+  margin: 50px; 
+}
+blockquote{
+  font-style: italic; 
+}
